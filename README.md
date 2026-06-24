@@ -151,7 +151,7 @@ After proper AWS authentication is configured:
 # Demo Video
 
 **Demo Link:**
-[Paste Demo Video Link Here]
+https://drive.google.com/file/d/1rfrIGVmJTmaZGSkrWpMwFXD-EV6kWzG8/view?usp=sharing
 
 ---
 
